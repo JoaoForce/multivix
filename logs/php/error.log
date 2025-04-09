@@ -1,0 +1,67 @@
+[09-Apr-2025 18:29:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in C:\Users\vitor\Local Sites\beach-clean\app\public\wp-content\plugins\elementor\modules\ai\module.php:348
+Stack trace:
+#0 C:\Users\vitor\Local Sites\beach-clean\app\public\wp-includes\class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 C:\Users\vitor\Local Sites\beach-clean\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\vitor\Local Sites\beach-clean\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\vitor\Local Sites\beach-clean\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in C:\Users\vitor\Local Sites\beach-clean\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 348
+[09-Apr-2025 18:32:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in C:\Users\vitor\Local Sites\beach-clean\app\public\wp-content\plugins\elementor\modules\ai\module.php:348
+Stack trace:
+#0 C:\Users\vitor\Local Sites\beach-clean\app\public\wp-includes\class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 C:\Users\vitor\Local Sites\beach-clean\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\vitor\Local Sites\beach-clean\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\vitor\Local Sites\beach-clean\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in C:\Users\vitor\Local Sites\beach-clean\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 348
+[09-Apr-2025 18:34:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in C:\Users\vitor\Local Sites\beach-clean\app\public\wp-content\plugins\elementor\modules\ai\module.php:348
+Stack trace:
+#0 C:\Users\vitor\Local Sites\beach-clean\app\public\wp-includes\class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 C:\Users\vitor\Local Sites\beach-clean\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\vitor\Local Sites\beach-clean\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\vitor\Local Sites\beach-clean\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in C:\Users\vitor\Local Sites\beach-clean\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 348
+[09-Apr-2025 18:48:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in C:\Users\vitor\Local Sites\beach-clean\app\public\wp-content\plugins\elementor\modules\ai\module.php:348
+Stack trace:
+#0 C:\Users\vitor\Local Sites\beach-clean\app\public\wp-includes\class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 C:\Users\vitor\Local Sites\beach-clean\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\vitor\Local Sites\beach-clean\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\vitor\Local Sites\beach-clean\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in C:\Users\vitor\Local Sites\beach-clean\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 348
+[09-Apr-2025 19:04:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\vitor\Local Sites\beach-clean\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[09-Apr-2025 19:04:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\vitor\Local Sites\beach-clean\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[09-Apr-2025 19:04:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\vitor\Local Sites\beach-clean\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[09-Apr-2025 19:04:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\vitor\Local Sites\beach-clean\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[09-Apr-2025 19:04:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\vitor\Local Sites\beach-clean\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[09-Apr-2025 19:04:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\vitor\Local Sites\beach-clean\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[09-Apr-2025 19:04:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\vitor\Local Sites\beach-clean\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[09-Apr-2025 19:04:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\vitor\Local Sites\beach-clean\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[09-Apr-2025 19:04:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\vitor\Local Sites\beach-clean\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[09-Apr-2025 19:04:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\vitor\Local Sites\beach-clean\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[09-Apr-2025 19:04:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\vitor\Local Sites\beach-clean\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[09-Apr-2025 19:04:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\vitor\Local Sites\beach-clean\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[09-Apr-2025 19:04:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\vitor\Local Sites\beach-clean\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[09-Apr-2025 19:04:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\vitor\Local Sites\beach-clean\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[09-Apr-2025 19:04:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\vitor\Local Sites\beach-clean\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[09-Apr-2025 19:04:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\vitor\Local Sites\beach-clean\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[09-Apr-2025 19:04:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\vitor\Local Sites\beach-clean\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[09-Apr-2025 19:04:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\vitor\Local Sites\beach-clean\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[09-Apr-2025 19:04:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\vitor\Local Sites\beach-clean\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[09-Apr-2025 19:04:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\vitor\Local Sites\beach-clean\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[09-Apr-2025 19:04:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\vitor\Local Sites\beach-clean\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[09-Apr-2025 19:04:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\vitor\Local Sites\beach-clean\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[09-Apr-2025 19:04:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\vitor\Local Sites\beach-clean\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[09-Apr-2025 19:04:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\vitor\Local Sites\beach-clean\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[09-Apr-2025 19:04:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\vitor\Local Sites\beach-clean\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[09-Apr-2025 19:04:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\vitor\Local Sites\beach-clean\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[09-Apr-2025 19:04:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\vitor\Local Sites\beach-clean\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[09-Apr-2025 19:04:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\vitor\Local Sites\beach-clean\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[09-Apr-2025 19:04:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\vitor\Local Sites\beach-clean\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[09-Apr-2025 19:04:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\vitor\Local Sites\beach-clean\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[09-Apr-2025 19:04:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\vitor\Local Sites\beach-clean\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[09-Apr-2025 19:04:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\vitor\Local Sites\beach-clean\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[09-Apr-2025 19:04:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\vitor\Local Sites\beach-clean\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[09-Apr-2025 20:45:55 UTC] PHP Warning:  include(C:\Users\vitor\Local Sites\beach-clean\app\public/wp-content/languages/plugins/webp-express-pt_BR.l10n.php): Failed to open stream: No such file or directory in C:\Users\vitor\Local Sites\beach-clean\app\public\wp-includes\l10n.php on line 1607
+[09-Apr-2025 20:45:55 UTC] PHP Warning:  include(): Failed opening 'C:\Users\vitor\Local Sites\beach-clean\app\public/wp-content/languages/plugins/webp-express-pt_BR.l10n.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\vitor\Local Sites\beach-clean\app\public\wp-includes\l10n.php on line 1607
